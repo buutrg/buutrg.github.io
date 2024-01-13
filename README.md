@@ -6,124 +6,75 @@ My primary research focuses on developing and applying statistical methods for e
 
 
 ## Education
-**Harvard University – PhD student** 
+**Harvard University – PhD student**  
+•	Advisor: Prof. Alkes L. Price and Prof. Limimg Liang  
+•	Program in Genetic Epidemiology and Statistical Genetics
 
-Advisor: Prof. Alkes L. Price and Prof. Limimg Liang
+**University of South Australia – Visiting Student / Researcher**  
+•	Advisor: Associate Professor S. Hong Lee, Associate Professor Thuc Duy Le  
+•	Computational Biology and Statistical Genetics  
 
-Program in Genetic Epidemiology and Statistical Genetics
+**Pham Ngoc Thach University of Medicine**  
+•	Doctor of Medicine (MD) - General Practitioner
 
-**University of South Australia – Visiting Student / Researcher** 
-
-Advisor: Associate Professor S. Hong Lee, Associate Professor Thuc Duy Le
-
-Computational Biology and Statistical Genetics
-
-**Pham Ngoc Thach University of Medicine** 
-
-Doctor of Medicine (MD) - General Practitioner
-
-**Le Hong Phong High School for the Gifted**
-
-Class of Computer Science
+**Le Hong Phong High School for the Gifted**  
+•	Class of Computer Science
 
 ## Professional Experience
-**Harvard University** 
-
-PhD student	Mar, 2023 – Sep, 2028
-
-Advisor: Prof. Alkes L. Price and Prof. Limimg Liang
-
+**Harvard University**  
+PhD student - Mar, 2023 – Sep, 2028  
+    Advisor: Prof. Alkes L. Price and Prof. Limimg Liang  
 •	Developed a method to leverage polygenicity enrichment from GWAS integrating chromatin accessibility signal from scATAC-seq data to identify desease-relevant cell types.
-
-•	Built causal network of Mendelian Randomization to investigate the inflammation interactions using proteomic data.
-
-•	Re-evaluated the tagging power of HapMap3 variants and developed a new method to identify tagging SNPs using large-scale whole genome sequencing data and from linkage disequilibrium (LD) score.
-
+•	Built causal network of Mendelian Randomization to investigate the inflammation interactions using proteomic data.  
+•	Re-evaluated the tagging power of HapMap3 variants and developed a new method to identify tagging SNPs using large-scale whole genome sequencing data and from linkage disequilibrium (LD) score.  
 •	Built pipeline to process large scATAC-seq data with 1.2 million cells and 1.3 million peaks.
 
-**Broad Institute of MIT and Harvard** – Program in Medical and Population Genetics (MPG)
+**Broad Institute of MIT and Harvard** – Program in Medical and Population Genetics (MPG)  
+Computational Biologist	- Jan, 2022 – Present  
+    Advisor: Dr. Pradeep Natarajan  
+•	Investigated the utility of PRS and its interaction with clinical risk factors for incident coronary artery disease.  
+•	Improved polygenic risk score for non-European ancestry in All of Us and Genes and Health data using combinations of trait-specific and cross-trait PRS. Further improvement with the integrations of functional annotations.  
+•	Explored the novel loci of hypertensive disorder of pregnancy with a meta-analyzed GWAS across 12 biobanks.  
+•	Colocalized between GWAS of hypertensive disorders of pregnancy and cardiovascular-related traits.  
+•	Investigated differential signatures of metabolomic profile between cardiovascular disease with and without preexisting type 2 diabetes in the UK Biobank.  
+•	Investigated the association of clonal hematopoiesis from whole exome sequencing data and incident lung cancer in Mass General Brigham Biobank.  
 
-Computational Biologist	Jan, 2022 – Present
+**South Australian Health and Medical Research Institute**  
+Student researcher in Statistical Genetics	Aug, 2018 – March, 2023 
+    Advisor: Associate Professor S. Hong Lee  
+•	Developed a method to investigate genetic causality between complex traits motivated by gene-by-environment interaction analysis which helps to relax the strict assumptions and reversed causation from Mendelian Randomization.  
+•	Simulated phenotypes based on genotype data in the UK Biobank for gene-by-environment interaction analysis from heritability and covariance structure between traits.  
+•	Developed a novel method to estimate the genetic correlation between diverse ancestries with individual genotypes.  
+•	Used relatedness information to improve accuracy of PRS through 44-fold smaller sample size of close relatives compared to unrelated individuals. This work was published in Nature Communications (https://doi.org/10.1038/s41467-020-16829-x).  
 
-Advisor: Dr. Pradeep Natarajan
+**University of South Australia**  
+Student researcher in Computational Biology	Jan, 2017 – Dec, 2021  
+    Advisor: Associate Professor Thuc Duy Le  
+•	Used causal inference approaches to identified gene signatures for breast cancer subtypes and investigate treatment response from bulk and single cell RNA-seq data.  
+•	Built Bayesian network with RNA-seq data to understand causal regulatory mechanism of micro-RNA and mRNA in breast cancer.  
+•	Built algorithms to select genes to predict cell position in Drosophila embryo using single-cell RNA-seq.  
 
-•	Investigated the utility of PRS and its interaction with clinical risk factors for incident coronary artery disease.
+**Vingroup Big Data Institute**  
+Research Scientist in Statistical Genetics - Mar, 2021 – Dec, 2021  
+    Advisor: Dr. Quan Nguyen (University of Queensland) and Dr. Nam Vo (Vingroup Big Data Institute).  
+•	Simulated phenotype for different ancestries given genotypic data, heritability, and genetic covariance.  
+•	Built PRS with different methods for complex trait and diseases for the Vietnamese population.  
 
-•	Improved polygenic risk score for non-European ancestry in All of Us and Genes and Health data using combinations of trait-specific and cross-trait PRS. Further improvement with the integrations of functional annotations.
+**Allelica**  
+Visiting Scientist in Statistical Genetics	Sep, 2021 – Dec, 2021  
+    Founders: Giordano Bottà, Paolo Di Domenico and George Busby.  
+•	Implemented fine-mapping to identify causal variants for type 2 diabetes.  
+•	Improved PRS accuracy for type 2 diabetes leveraging functionally-informed fine-mapping.  
 
-•	Explored the novel loci of hypertensive disorder of pregnancy with a meta-analyzed GWAS across 12 biobanks.
+**MTI Technology** - Lead Data Scientist - Jan, 2020 – Nov, 2021  
+Project: Predict success rate for pregnancy of in vitro fertilization.  
+•	Used machine learning methods to estimate the success rate of in vitro fertilization from electronic health record data.  
 
-•	Colocalized between GWAS of hypertensive disorders of pregnancy and cardiovascular-related traits.
-
-•	Investigated differential signatures of metabolomic profile between cardiovascular disease with and without preexisting type 2 diabetes in the UK Biobank.
-
-•	Investigated the association of clonal hematopoiesis from whole exome sequencing data and incident lung cancer in Mass General Brigham Biobank.
-
-**South Australian Health and Medical Research Institute**
-
-Student researcher in Statistical Genetics	Aug, 2018 – March, 2023
-
-Advisor: Associate Professor S. Hong Lee
-
-•	Developed a method to investigate genetic causality between complex traits motivated by gene-by-environment interaction analysis which helps to relax the strict assumptions and reversed causation from Mendelian Randomization.
-
-•	Simulated phenotypes based on genotype data in the UK Biobank for gene-by-environment interaction analysis from heritability and covariance structure between traits.
-
-•	Developed a novel method to estimate the genetic correlation between diverse ancestries with individual genotypes.
-
-•	Used relatedness information to improve accuracy of PRS through 44-fold smaller sample size of close relatives compared to unrelated individuals. This work was published in Nature Communications (https://doi.org/10.1038/s41467-020-16829-x).
-
-**University of South Australia**
-
-Student researcher in Computational Biology	Jan, 2017 – Dec, 2021
-
-Advisor: Associate Professor Thuc Duy Le
-
-•	Used causal inference approaches to identified gene signatures for breast cancer subtypes and investigate treatment response from bulk and single cell RNA-seq data.
-
-•	Built Bayesian network with RNA-seq data to understand causal regulatory mechanism of micro-RNA and mRNA in breast cancer.
-
-•	Built algorithms to select genes to predict cell position in Drosophila embryo using single-cell RNA-seq.
-
-**Vingroup Big Data Institute**
-
-Research Scientist in Statistical Genetics	
-
-Mar, 2021 – Dec, 2021
-
-Advisor: Dr. Quan Nguyen (University of Queensland) and Dr. Nam Vo (Vingroup Big Data Institute).
-
-•	Simulated phenotype for different ancestries given genotypic data, heritability, and genetic covariance.
-
-•	Built PRS with different methods for complex trait and diseases for the Vietnamese population.
-
-**Allelica**
-
-Visiting Scientist in Statistical Genetics	Sep, 2021 – Dec, 2021
-
-Founders: Giordano Bottà, Paolo Di Domenico and George Busby.
-
-•	Implemented fine-mapping to identify causal variants for type 2 diabetes.
-
-•	Improved PRS accuracy for type 2 diabetes leveraging functionally-informed fine-mapping.
-
-**MTI Technology**
-
-Lead Data Scientist	Jan, 2020 – Nov, 2021
-
-Project: Predict success rate for pregnancy of in vitro fertilization.
-
-•	Used machine learning methods to estimate the success rate of in vitro fertilization from electronic health record data.
-
-**Oxford University Clinical Research Unit (OUCRU)**
-
-Mathematical Modelling Intern	Jun, 2016 – Jun, 2017
-
-Advisor: Assistant Professor Hannah Clapham.
-
-•	Investigated epidemiology of hepatitis B virus (HBV) to understand the transmission of HBV.
-
-•	Applied differential equation SIR model for spread of HBV to estimate the optimized impact of vaccination coverage.
+**Oxford University Clinical Research Unit (OUCRU)** - Mathematical Modelling  
+Intern - Jun, 2016 – Jun, 2017  
+    Advisor: Assistant Professor Hannah Clapham.  
+•	Investigated epidemiology of hepatitis B virus (HBV) to understand the transmission of HBV.  
+•	Applied differential equation SIR model for spread of HBV to estimate the optimized impact of vaccination coverage.  
 
 # SELECTED MANUSCRIPTS
 
