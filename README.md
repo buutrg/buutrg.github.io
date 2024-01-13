@@ -127,7 +127,7 @@ Advisor: Assistant Professor Hannah Clapham.
 
 # SELECTED MANUSCRIPTS
 
-* Equal contribution;	
+\* Equal contribution;	
 
 1.	Michael C. Honigberg, **Buu Truong***, Satoshi Koyama, Aniruddh P. Patel, So Mi Jemma Cho, Mark Trinder, Sarah M. Urbut, Snehal Patil, Sebastian Zöllner, Thi Ha Vy, Girish Nadkarni, Ron Do, Triin Laisk, Estonian Biobank Research Team, David van Heel, Pradeep Natarajan. "Polygenic prediction of preeclampsia and gestational hypertension". Nature Medicine. doi: 10.1038/s41591-023-02374-9 (2023)
 2.	**Buu Truong**, Leland Hull, Yunfeng Ruan, Qinqin Huang, Hilary Martin, David van Heel, Alicia R. Martin, S. Hong Lee, Pradeep Natarajan. "Improving polygenic risk scores by integrating trait-specific and cross-trait scores" (accepted on Cell Genomics)	(2024)
@@ -142,7 +142,7 @@ Advisor: Assistant Professor Hannah Clapham.
 
 # MANUSCRIPTS
 
-* Equal contribution; + Correspondence	
+\* Equal contribution; + Correspondence	
 
 11.	Samuel Kim+, **Buu Truong**+, Karthik Jagadeesh , Kushal Dey, Amber Shen, Soumya Raychaudhuri , Manolis Kellis, Alkes L. Price+ (2023). Application of single-cell ATAC-seq and RNA-seq to identify disease-critical fetal and adult brain cell types. (in-press in Nature Communications)	(2024)
 12.	Aeron Small, Giorgio Melloni , Frederick Kamanu , Brian Bergmark , … Stephen Wiviott , **Buu Truong**, …, Pradeep Natarajan , Nicholas Marston. Integration of a Novel Polygenic Risk Score with Established Clinical Risk Factors for Risk Prediction of Aortic Stenosis. (in-press on JAMA Cardiology)	(2024)
@@ -162,7 +162,7 @@ Advisor: Assistant Professor Hannah Clapham.
 
 # CONFERENCES
 
-* Equal contribution.        +++ Platform talk.
+\* Equal contribution.        +++ Platform talk.
 
 
 1.	**Buu Truong**, Zihan Sun, Zihan Wang, Vishal Sarsani, Xikun Han, Jie Hu, JoAnn E. Manson, Frank B. Hu, Liming Liang, Jun Li. The genetic architecture of inflammatory markers characterizing obesity- and adiposity-induced inflammation. American Society of Human Genetics.	(2023)
