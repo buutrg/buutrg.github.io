@@ -40,7 +40,7 @@ Computational Biologist	- Jan, 2022 – Present
 •	Investigated the association of clonal hematopoiesis from whole exome sequencing data and incident lung cancer in Mass General Brigham Biobank.  
 
 **South Australian Health and Medical Research Institute**  
-Student researcher in Statistical Genetics	Aug, 2018 – March, 2023 
+Student researcher in Statistical Genetics	Aug, 2018 – March, 2023  
     Advisor: Associate Professor S. Hong Lee  
 •	Developed a method to investigate genetic causality between complex traits motivated by gene-by-environment interaction analysis which helps to relax the strict assumptions and reversed causation from Mendelian Randomization.  
 •	Simulated phenotypes based on genotype data in the UK Biobank for gene-by-environment interaction analysis from heritability and covariance structure between traits.  
