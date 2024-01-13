@@ -187,9 +187,8 @@ Advisor: Assistant Professor Hannah Clapham.
 
 # PROFESSIONAL MEMBERSHIPS
 
-Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium – Method development subcommittee.	
-
-Biobank Rare Variant Analysis (BRaVa) – Method development subcommittee.	
+1. Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium – Method development subcommittee.	
+2. Biobank Rare Variant Analysis (BRaVa) – Method development subcommittee.	
 
 # SERVICES / ACTIVITIES
 1. Teaching Assistant for Genetic Epidemiology (EPI293) Introduction to R (CI 716)	(2024)
