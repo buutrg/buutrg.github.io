@@ -126,7 +126,9 @@ Advisor: Assistant Professor Hannah Clapham.
 •	Applied differential equation SIR model for spread of HBV to estimate the optimized impact of vaccination coverage.
 
 # SELECTED MANUSCRIPTS
+
 * Equal contribution;	
+
 1.	Michael C. Honigberg, **Buu Truong***, Satoshi Koyama, Aniruddh P. Patel, So Mi Jemma Cho, Mark Trinder, Sarah M. Urbut, Snehal Patil, Sebastian Zöllner, Thi Ha Vy, Girish Nadkarni, Ron Do, Triin Laisk, Estonian Biobank Research Team, David van Heel, Pradeep Natarajan. "Polygenic prediction of preeclampsia and gestational hypertension". Nature Medicine. doi: 10.1038/s41591-023-02374-9 (2023)
 2.	**Buu Truong**, Leland Hull, Yunfeng Ruan, Qinqin Huang, Hilary Martin, David van Heel, Alicia R. Martin, S. Hong Lee, Pradeep Natarajan. "Improving polygenic risk scores by integrating trait-specific and cross-trait scores" (accepted on Cell Genomics)	(2024)
 3.	**Buu Truong**, Yunfeng Ruan, Sara Haidermota, Aniruddh Patel, Ida Surakka, Whitney Hornsby, Satoshi Koyama, S. Hong Lee, Pradeep Natarajan. 2022. "Modification of coronary artery disease clinical risk factors by coronary artery disease polygenic risk score". (in-press on Med).	(2024)
@@ -139,7 +141,9 @@ Advisor: Assistant Professor Hannah Clapham.
 10.	Jovan Tanevski, Thin Nguyen, **Buu Truong***, Nikos Karaiskos, Mehmet Eren Ahsen, Xinyu Zhang, and Chang Shu et al. 2020. "Gene Selection For Optimal Prediction Of Cell Position In Tissues From Single-Cell Transcriptomics Data". Life Science Alliance 3 (11): e202000867. doi:10.26508/lsa.202000867. (2020)
 
 # MANUSCRIPTS
+
 * Equal contribution; + Correspondence	
+
 11.	Samuel Kim+, **Buu Truong**+, Karthik Jagadeesh , Kushal Dey, Amber Shen, Soumya Raychaudhuri , Manolis Kellis, Alkes L. Price+ (2023). Application of single-cell ATAC-seq and RNA-seq to identify disease-critical fetal and adult brain cell types. (in-press in Nature Communications)	(2024)
 12.	Aeron Small, Giorgio Melloni , Frederick Kamanu , Brian Bergmark , … Stephen Wiviott , **Buu Truong**, …, Pradeep Natarajan , Nicholas Marston. Integration of a Novel Polygenic Risk Score with Established Clinical Risk Factors for Risk Prediction of Aortic Stenosis. (in-press on JAMA Cardiology)	(2024)
 13.	Nina Kathiresan, So Mi Jemma Cho, Romit Bhattacharya, **Buu Truong**, Whitney Hornsby, Pradeep Natarajan. (2023). “Representation of Race and Ethnicity in a Contemporary US Health Cohort: The All of Us Research Program”. JAMA Cardiology. 2023;8(9):859-864. doi:10.1001/jamacardio.2023.2411 (2023)
@@ -159,6 +163,7 @@ Advisor: Assistant Professor Hannah Clapham.
 # CONFERENCES
 
 * Equal contribution.        +++ Platform talk.
+
 
 1.	**Buu Truong**, Zihan Sun, Zihan Wang, Vishal Sarsani, Xikun Han, Jie Hu, JoAnn E. Manson, Frank B. Hu, Liming Liang, Jun Li. The genetic architecture of inflammatory markers characterizing obesity- and adiposity-induced inflammation. American Society of Human Genetics.	(2023)
 2.	Michael C. Honigberg, **Buu Truong***, Satoshi Koyama, Aniruddh P. Patel, So Mi Jemma Cho, Mark Trinder, Sarah M. Urbut, Snehal Patil, Sebastian Zöllner, Thi Ha Vy, Girish Nadkarni, Ron Do, Triin Laisk, Estonian Biobank Research Team, David van Heel, Pradeep Natarajan. "Genome-wide meta-analysis identifies novel risk variants and enables polygenic prediction of preeclampsia and gestational hypertension". American Society of Human Genetics+++.	(2022)
