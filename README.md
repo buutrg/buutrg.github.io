@@ -3,10 +3,12 @@
 
 ### EDUCATION
 **Harvard University – PhD student** 
-Program in Genetic Epidemiology and Statistical Genetics__Supervisor: Prof. Alkes L. Price and Prof. Limimg Liang 
+Supervisor: Prof. Alkes L. Price and Prof. Limimg Liang
+Program in Genetic Epidemiology and Statistical Genetics
 
 **University of South Australia – Visiting Student / Researcher** 
-Computational Biology and Statistical Genetics__Supervisor: Associate Professor S. Hong Lee, Associate Professor Thuc Duy Le
+Supervisor: Associate Professor S. Hong Lee, Associate Professor Thuc Duy Le
+Computational Biology and Statistical Genetics
 
 **Pham Ngoc Thach University of Medicine** 
 Doctor of Medicine (MD) - General Practitioner
