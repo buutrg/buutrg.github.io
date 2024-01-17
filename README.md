@@ -95,7 +95,7 @@ Intern - Jun, 2016 – Jun, 2017
 
 \* Equal contribution; + Correspondence	
 
-11.	Samuel Kim+, **Buu Truong**+, Karthik Jagadeesh , Kushal Dey, Amber Shen, Soumya Raychaudhuri , Manolis Kellis, Alkes L. Price+ (2023). Application of single-cell ATAC-seq and RNA-seq to identify disease-critical fetal and adult brain cell types. (in-press in Nature Communications)	(2024)
+11.	Samuel Kim+, **Buu Truong**+, Karthik Jagadeesh , Kushal Dey, Amber Shen, Soumya Raychaudhuri , Manolis Kellis, Alkes L. Price+ (2024). Leveraging single-cell ATAC-seq and RNA-seq to identify disease-critical fetal and adult brain cell types. Nat Commun 15, 563 (2024). https://doi.org/10.1038/s41467-024-44742-0 (2024)
 12.	Aeron Small, Giorgio Melloni , Frederick Kamanu , Brian Bergmark , … Stephen Wiviott , **Buu Truong**, …, Pradeep Natarajan , Nicholas Marston. Integration of a Novel Polygenic Risk Score with Established Clinical Risk Factors for Risk Prediction of Aortic Stenosis. (in-press on JAMA Cardiology)	(2024)
 13.	Nina Kathiresan, So Mi Jemma Cho, Romit Bhattacharya, **Buu Truong**, Whitney Hornsby, Pradeep Natarajan. (2023). “Representation of Race and Ethnicity in a Contemporary US Health Cohort: The All of Us Research Program”. JAMA Cardiology. 2023;8(9):859-864. doi:10.1001/jamacardio.2023.2411 (2023)
 14.	Qi Yan, Nathan Blue, **Buu Truong**, Yu Zhang, Rafael Guerrero, Nianjun Liu, Michael C Honigberg, Samuel Parry, Rebecca B McNeil, Brian M Mercer, William A Grobman, Robert Silver, Uma M Reddy, Wapner J Ronald, David M Haas. (2023). “Genetic Associations with Dynamic Placental Proteins Identify Causal Biomarkers for Hypertension in Pregnancy”. (under-review in Nature Communications). https://doi.org/10.1101/2023.05.25.23290460 (2023)
