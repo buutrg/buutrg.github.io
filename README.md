@@ -24,7 +24,7 @@ My primary research focuses on developing and applying statistical methods for e
 **Harvard University**  
 PhD student - Mar, 2023 – Sep, 2028  
     Advisor: Prof. Alkes L. Price and Prof. Limimg Liang  
-•	Developed a method to leverage polygenicity enrichment from GWAS integrating chromatin accessibility signal from scATAC-seq data to identify desease-relevant cell types.
+•	Developed a method to leverage polygenicity enrichment from GWAS integrating chromatin accessibility signal from scATAC-seq data to identify desease-relevant cell types.  
 •	Built causal network of Mendelian Randomization to investigate the inflammation interactions using proteomic data.  
 •	Re-evaluated the tagging power of HapMap3 variants and developed a new method to identify tagging SNPs using large-scale whole genome sequencing data and from linkage disequilibrium (LD) score.  
 •	Built pipeline to process large scATAC-seq data with 1.2 million cells and 1.3 million peaks.
